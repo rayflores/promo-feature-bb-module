@@ -1,0 +1,84 @@
+<?php 
+
+Product Launch Formula is a proven, step-by-step process that
+shows you exactly how to launch a product in precise detail. It
+shows you exactly what to do every step of the way, right down to
+which blog post to release when, and what to say in every email.
+
+stdClass Object
+(
+    [promo_type_select] =&gt; text_promo
+    [video_field] =&gt; 
+    [top_title] =&gt; Build A Business You Love
+    [lower_title] =&gt; Live The Life of Your Dreams
+    [promo_header] =&gt; <h2 style="text-align: center;"><em><strong>Product</strong></em> Launch&nbsp;</h2><h3 style="text-align: center;">Formula</h3>
+    [promo_box_text] =&gt; <p>Product Launch Formula is a proven, step-by-step process that<br>shows you exactly how to launch a product in precise detail. It<br>shows you exactly what to do every step of the way, right down to<br>which blog post to release when, and what to say in every email.</p>
+    [button_field] =&gt; button-link
+    [button_color_field] =&gt; 333333
+    [button_link_text] =&gt; Learn More
+    [icon_field] =&gt; fa fa-play
+    [link_field] =&gt; /somelinkhere/
+    [background_select] =&gt; photo-bg
+    [photo_field] =&gt; 212
+    [background_color_field] =&gt; FFFFFF
+    [toggle_me] =&gt; option-1
+    [toggle_text] =&gt; 
+    [toggle_text2] =&gt; some text will go here once you have created your left side box.
+    [toggle_image] =&gt; 847
+    [margin_top] =&gt; 
+    [margin_top_medium] =&gt; 
+    [margin_top_responsive] =&gt; 
+    [margin_bottom] =&gt; 
+    [margin_bottom_medium] =&gt; 
+    [margin_bottom_responsive] =&gt; 
+    [margin_left] =&gt; 
+    [margin_left_medium] =&gt; 
+    [margin_left_responsive] =&gt; 
+    [margin_right] =&gt; 
+    [margin_right_medium] =&gt; 
+    [margin_right_responsive] =&gt; 
+    [responsive_display] =&gt; 
+    [visibility_display] =&gt; 
+    [visibility_user_capability] =&gt; 
+    [animation] =&gt; 
+    [animation_delay] =&gt; 0.0
+    [id] =&gt; 
+    [class] =&gt; 
+    [type] =&gt; index
+    [link_field-search] =&gt; 
+    [photo_field_src] =&gt; http://69f.ff6.myftpupload.com/wp-content/uploads/2017/04/gallery-6-1600x1067.jpg
+    [toggle_image_src] =&gt; http://69f.ff6.myftpupload.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-14-at-3.16.21-PM-150x150.png
+)
+    	
+		
+<div id="fws_5a03182f29cd8" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section  featured-section  first-section loaded" style="padding: 0px 404px; margin-left: -404px; visibility: visible; margin-top: -70px;"><div class="row-bg-wrap instance-0"> <div class="row-bg using-image using-bg-color " style="background-image: url(http://jeffwalker.com/wp-content/uploads/2014/06/JEFF_Website_MainImages_Home_BackgroundPic.jpg); background-position: center top; background-repeat: no-repeat; background-color: #000000; " data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div> </div><div class="col span_12 dark left">
+	<div class="vc_col-sm-5 single-col-hide wpb_column column_container col no-extra-padding instance-0" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+			<div class="wpb_wrapper">
+				<div class="img-with-aniamtion-wrap "><img class="img-with-animation  animated-in" data-delay="0" height="100%" width="100%" data-animation="fade-in" src="http://jeffwalker.com/wp-content/uploads/2010/05/JEFF_Website_MainImages_Home_Jeff-1.png" alt="" style="opacity: 1;"></div>
+			</div> 
+	</div> 
+
+	<div class="vc_col-sm-7 wpb_column column_container col no-extra-padding instance-1" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+			<div class="wpb_wrapper">
+				
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<h2 class="extra-top">Build A Business You Love</h2>
+<h2 class="indent">Live the life of your dreams</h2>
+
+<div class="special-feature-box">
+<div class="topper">
+<h2>Product <span>Launch</span></h2>
+<h3><span>Formula</span></h3>
+</div>
+<div class="lower">
+<p>Product Launch Formula is a proven, step-by-step process that shows you exactly how to launch a product in precise detail. It shows you exactly what to do every step of the way, right down to which blog post to release when, and what to say in every email. </p>
+<a href="/programs/" class="btn btn-dark btn-arrow-left">Learn More</a>
+</div>
+</div>
+		</div>
+	</div>
+
+			</div> 
+	</div> 
+</div></div>		
